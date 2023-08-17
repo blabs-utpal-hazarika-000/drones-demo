@@ -76,10 +76,10 @@ The FastAPI application will be accessible at http://localhost:8000.
 
 To run the tests, execute the following command:
 
-navigate to the `apis` folder and run:
+navigate to the `api` folder and run:
 
 ```sh
-cd apis
+cd api
 source venv/bin/activate # On Windows: venv\Scripts\activate
 python -m pytest tests/
 ```
