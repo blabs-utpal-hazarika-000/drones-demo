@@ -1,0 +1,10 @@
+/**/__pycache__
+api/.venv
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+*.log
+api/tests
+.dockerignore
