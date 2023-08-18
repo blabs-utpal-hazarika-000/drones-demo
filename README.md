@@ -8,7 +8,7 @@ Follow these steps to set up and run the project.
 
 ### Prerequisites
 
-- Python 3.10
+- Python 3.10.x
 - Docker (optional, for running with Docker Compose)
 
 ### Installation
